@@ -1,3 +1,0 @@
-displayName = Catharsis
-author = Dragoncraft9
-version = 1.0
