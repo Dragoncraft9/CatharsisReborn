@@ -1,1 +1,6 @@
-
+Items: {
+	BeachGrassSeeds: {
+		Tooltip: ""
+		DisplayName: Beach Grass Seeds
+	}
+}
