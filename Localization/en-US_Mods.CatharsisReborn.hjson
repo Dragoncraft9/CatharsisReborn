@@ -1,6 +1,13 @@
 Items: {
-	BeachGrassSeeds: {
+	DryGrassSeeds: {
 		Tooltip: ""
-		DisplayName: Beach Grass Seeds
+		DisplayName: Dry Grass Seeds
+	}
+
+	VampiricRapier: {
+		DisplayName: Vampiric Rapier
+		Tooltip: ""
 	}
 }
+
+Projectiles.VampiricRapierProjectile.DisplayName: Vampiric Rapier Projectile
