@@ -4,10 +4,10 @@ Items: {
 		DisplayName: Dry Grass Seeds
 	}
 
-	VampiricRapier: {
-		DisplayName: Vampiric Rapier
+	CountsRapier: {
+		DisplayName: Count's Rapier
 		Tooltip: ""
 	}
 }
 
-Projectiles.VampiricRapierProjectile.DisplayName: Vampiric Rapier Projectile
+Projectiles.CountsRapierProjectile.DisplayName: Count's Rapier Projectile
